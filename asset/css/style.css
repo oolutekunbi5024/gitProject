@@ -61,7 +61,7 @@ h1{
     /* font-weight:bolder; */
 }
 
- p {font-family: 'Inder', sans-serif; line-height: 28px; margin-bottom: 15px; color: rgb(182, 178, 178);} */ */
+ p {font-family: 'Inder', sans-serif; line-height: 28px; word-spacing: 2px; margin-bottom: 2px; color: rgb(182, 178, 178);} */ */
 
 
 a { color: #ff4411; transition: .5s; -moz-transition: .5s; -webkit-transition: .5s; -o-transition: .5s; }
@@ -155,7 +155,7 @@ a:hover { color: #a03c21 }
 }
 
 .col-sm-12.col-lg-8{
-    padding: 70px;
+    padding: 10px;
     padding-right: 100px;
 }
 
@@ -227,10 +227,13 @@ text-align: center;
         /* margin-bottom: 25px; */
     }
 
-   
+   .hei{
+    height: 70vh;
+   }
 
 .wrapper {
     padding-top: 80px;
+   
 }
 .wrapper .button{
     display: inline-block;
